@@ -26,7 +26,7 @@ Video[1] and audio[2] creation technology gets better every day. Within a few ye
 
 We can't solve this problem entirely, but we think this project might be a step in the right direction. Asymmetric cryptography allows us to validate a file to verify that it was signed, in its exact binary form, by the holder of a unique private key. Want to prove that your footage of a real-estate tycoon hanging out in Moscow is legit? In the future, your camera could sign the footage with a hardware-backed private key, and by demonstrating that the signatures from the camera were still intact, you could prove that your footage wasn't fabricated with advanced CGI.
 
-Admittedly, cryptographic signing isn't a new technique, for video files, it makes a lot more sense to sign blocks of data with much smaller granularity than the entire file. With a bit more work (and of course, widespread community acceptance) this project could allow media creators to prove the validity of their video without losing all ability to edit it.
+Admittedly, cryptographic signing isn't a new technique, but for video files, it makes a lot more sense to sign blocks of data with much smaller granularity than the entire file. With a bit more work (and of course, widespread community acceptance) this project could allow media creators to prove the validity of their video without losing all ability to edit it.
 
 
 1: [![Stanford Demo](http://img.youtube.com/vi/ohmajJTcpNk/0.jpg)](https://www.youtube.com/watch?v=ohmajJTcpNk "Face2Face: Real-time Face Capture and Reenactment of RGB Videos")
