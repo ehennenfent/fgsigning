@@ -1,7 +1,8 @@
 # Fighting Fake News with Crypto
 
 Fine-Grained Video Authenticity Certification via RSA Signatures
-    * Writes a backing cbor file containing frame-by-frame signatures for a video, then validates these signatures
+
+* Writes a backing cbor file containing frame-by-frame signatures for a video, then validates these signatures
 
 ## USAGE
   `python sign.py`
