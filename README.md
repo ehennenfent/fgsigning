@@ -30,6 +30,7 @@ Admittedly, cryptographic signing isn't a new technique, for video files, it mak
 
 
 1: [![Stanford Demo](http://img.youtube.com/vi/ohmajJTcpNk/0.jpg)](https://www.youtube.com/watch?v=ohmajJTcpNk "Face2Face: Real-time Face Capture and Reenactment of RGB Videos")
+
 2: [![Adobe Demo](http://img.youtube.com/vi/I3l4XLZ59iw/0.jpg)](https://www.youtube.com/watch?v=I3l4XLZ59iw "Adobe MAX 2016")
 
 ## Contributor Guide
